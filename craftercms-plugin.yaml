@@ -1,0 +1,39 @@
+####
+# @see https://docs.craftercms.org/en/4.0/developers/plugins/plugin-descriptor.html
+####
+descriptorVersion: 2
+plugin:
+  type: site
+  id:
+  name:
+  tags:
+  version:
+    major: 1
+    minor: 0
+    patch: 0
+  description:
+  documentation:
+  website:
+    name:
+    url:
+  media:
+    screenshots:
+      - title:
+        description:
+        url: ""
+  developer:
+    company:
+      name:
+      email:
+      url:
+  license:
+    name: MIT
+    url: https://opensource.org/licenses/MIT
+  crafterCmsVersions:
+    - major: 4
+      minor: 0
+      patch: 0
+  crafterCmsEditions:
+    - community
+    - enterprise
+  installation:
